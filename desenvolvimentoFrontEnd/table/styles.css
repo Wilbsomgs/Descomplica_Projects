@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+.container {
+    margin-left: 200px;
+    margin-top: 50px;
+    max-width: 500px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: aqua;
+}
