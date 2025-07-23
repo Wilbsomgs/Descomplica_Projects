@@ -5,6 +5,8 @@ function exemploFuncao(a,b){ // Como declarar função
 // Declarando e chamando função 
 let x = exemplo(2,4);
 
+console.log("Resultado da variável x: " + x);
+
 function exemplo(a,b){
     return a + b; // Função que retorna a soma dos parâmetros a e b
 }
