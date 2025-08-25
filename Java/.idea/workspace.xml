@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2568249e-72e8-47ba-93be-9bc5c678a388" name="Changes" comment="" />
+    <list default="true" id="2568249e-72e8-47ba-93be-9bc5c678a388" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +34,18 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java",
-    "onboarding.tips.debug.path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java/VetoresJava/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java/RecursaoComCauda/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\recursao\RecursaoComCauda" />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\recursao" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2568249e-72e8-47ba-93be-9bc5c678a388" name="Changes" comment="" />
