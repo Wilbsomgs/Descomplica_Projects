@@ -1,0 +1,27 @@
+*{
+    margin:0;
+}
+
+
+/* Espaçamento layout test */
+
+.evento-container{
+    border: solid 1px black;
+    padding: 20px;
+}
+
+.ev-container-sub{
+    width: 25%;
+    margin-bottom: 20px;
+}
+
+#info{
+    display: none;
+}
+
+#container-cor {
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+}
