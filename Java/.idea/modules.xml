@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeDados/EstruturasDeDados.iml" filepath="$PROJECT_DIR$/EstruturasDeDados/EstruturasDeDados.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroducaoAoJava/IntroducaoAoJava.iml" filepath="$PROJECT_DIR$/IntroducaoAoJava/IntroducaoAoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VetoresJava/Matrize/Matrize.iml" filepath="$PROJECT_DIR$/VetoresJava/Matrize/Matrize.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VetoresJava/VetoresJava.iml" filepath="$PROJECT_DIR$/VetoresJava/VetoresJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/recursao/RecursaoComCauda/exemplo001/exemplo001.iml" filepath="$PROJECT_DIR$/recursao/RecursaoComCauda/exemplo001/exemplo001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/Matriz/MatrizEx001/MatrizEx001.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/Matriz/MatrizEx001/MatrizEx001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/AlgOrdenacao/QuickSort/QuickSortExemplo001/QuickSortExemplo001.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/AlgOrdenacao/QuickSort/QuickSortExemplo001/QuickSortExemplo001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoComCauda/RecursaoCCaudaEx001/RecursaoCCaudaEx001.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoComCauda/RecursaoCCaudaEx001/RecursaoCCaudaEx001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoComCauda/RecursaoCCaudaEx002/RecursaoCCaudaEx002.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoComCauda/RecursaoCCaudaEx002/RecursaoCCaudaEx002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoSemCauda/RecursaoSCaudaEx001/RecursaoSCaudaEx001.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/recursao/RecursaoSemCauda/RecursaoSCaudaEx001/RecursaoSCaudaEx001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/Vetores/VetoresJava/VetoresJava.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/Vetores/VetoresJava/VetoresJava.iml" />
     </modules>
   </component>
 </project>

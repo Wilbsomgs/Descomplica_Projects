@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2568249e-72e8-47ba-93be-9bc5c678a388" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EstruturaDeDados/AlgOrdenacao/QuickSort/QuickSortExemplo001/QuickSortExemplo001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/EstruturasDeDados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/src/Pilha/PilhaExemplo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/src/Pilha/PilhaExemplo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exemplo001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exemplo001/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,13 +40,17 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.PilhaExemplo01.executor": "Run",
+    "Application.PilhaExemplo02.executor": "Run",
+    "Application.QuickSortExemplo001.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java",
-    "onboarding.tips.debug.path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java/RecursaoComCauda/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/wills/OneDrive/Desktop/Github/Descomplica_Projects/Java/EstruturasDeDados/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -42,9 +58,46 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\recursao\RecursaoComCauda" />
-      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\recursao" />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\EstruturaDeDados\AlgOrdenacao\QuickSort" />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\EstruturaDeDados\Matriz" />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\EstruturaDeDados\Vetores," />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java\EstruturaDeDados" />
+      <recent name="C:\Users\wills\OneDrive\Desktop\Github\Descomplica_Projects\Java" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.PilhaExemplo02">
+    <configuration name="PilhaExemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pilha.PilhaExemplo01" />
+      <module name="EstruturasDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pilha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PilhaExemplo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pilha.PilhaExemplo02" />
+      <module name="EstruturasDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pilha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PilhaExemplo02" />
+        <item itemvalue="Application.PilhaExemplo01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,5 +108,16 @@
       <updated>1753751909616</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EstruturasDeDados/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
