@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumo de API</title>
+</head>
+<body>
+    <h1>Consumo de API</h1>
+    <h2>Lista de usuários</h2>
+    <ul id="usuarios"></ul>
+
+    <script>
+        async function carregarUsuarios(){
+            try{
+                const resposta = await fetch('https://jsonplaceholder.typicode.com/users');
+                const usuarios = await resposta.json();
+
+                const lista = document.getElementById("usuarios");
+                usuarios.forEach(user => {
+                    const item = document.createElement('li');
+                    item.textContent = `${user.name} - ${user.email}`
+                    lista.appendChild(item);
+                });
+            }catch(erro){
+                console.error("Erro: ", erro);
+            }
+        }
+
+        carregarUsuarios();
+    </script>
+</body>
+</html>
