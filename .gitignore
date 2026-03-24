@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Java / Spring Boot (Útil para seus projetos de Backend)
+target/
+*.class
+
+# Node / React (Útil para seu Jogo da Velha)
+node_modules/
+dist/
+build/
+.env
